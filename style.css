@@ -452,6 +452,11 @@ footer {
   nav {
     padding: 20px;
   }
+  .navBottom {
+    display: block;
+    margin: 20px;
+    margin-top: 20px;
+  }
 
   .search {
     display: none;
